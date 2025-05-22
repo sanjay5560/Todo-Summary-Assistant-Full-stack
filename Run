@@ -1,0 +1,7 @@
+# Backend (port 5000)
+cd backend
+node server.js
+
+# Frontend (port 3000)
+cd ../frontend
+npm start
